@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: home
+  url: /
+
+# - title: articles
+#   url: /articles/
+
+- title: research
+  url: /research/
+
+- title: publications
+  url: /publications/
+
+# - title: about
+#   url: /about/
+
+# - title: tags
+#   url: /tags/
+
+# - title: search
+#   url: /search/
