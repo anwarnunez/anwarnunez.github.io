@@ -34,6 +34,7 @@ I'm a [neuroscience][hwni] graduate student in the [Gallant lab][glab] at UC Ber
 ## Personal
 
 	Anwar O. Nunez-Elizalde
+	Email: anwarnunez@berkeley.edu
 	Place of birth: Mante, Tamaulipas, Mexico
 	Date of birth: October 23, 1985
 
