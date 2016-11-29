@@ -1,7 +1,7 @@
 ---
 layout: page
 title: random
-excerpt: "An archive of blog posts sorted by date."
+excerpt: "random stuff."
 search_omit: true
 share: true
 ---
