@@ -10,9 +10,9 @@ search_omit: false
 
 # Publications
 
-[**Voxelwise encoding models with non-spherical multivariate normal priors.**](https://www.biorxiv.org/content/early/2018/08/09/386318) Nunez-Elizalde AO, Huth AG, and Gallant JS. bioRxiv (2018).
+[**Voxelwise encoding models with non-spherical multivariate normal priors.**](https://www.biorxiv.org/content/early/2018/08/09/386318) Nunez-Elizalde AO, Huth AG, and Gallant JL. bioRxiv (2018).
 
-[**cottoncandy: scientific python package for easy cloud storage.**](https://joss.theoj.org/papers/5af3df2912fd34f2cf3bb7fa1db90df5) Nunez-Elizalde AO, Gao JS, Zhang T, and Gallant JS. The Journal of Open Source Software (2018).
+[**cottoncandy: scientific python package for easy cloud storage.**](https://joss.theoj.org/papers/5af3df2912fd34f2cf3bb7fa1db90df5) Nunez-Elizalde AO, Gao JS, Zhang T, and Gallant JL. The Journal of Open Source Software (2018).
 
 [**Seeing the world through non rose-colored glasses: anxiety and the amygdala response to blended expressions.**](http://journal.frontiersin.org/article/10.3389/fnhum.2015.00152/full) Bishop SJ, Aguirre GK, Nunez-Elizalde AO, and Toker D. Frontiers in Human Neuroscience (2015).
 
