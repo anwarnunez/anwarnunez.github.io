@@ -11,29 +11,28 @@ image:
 
 ***
 
-I'm a ~~[neuroscience][hwni] graduate student in~~ member of the [Gallant lab][glab] at UC Berkeley.
+I'm a postdoc in the lab of Matteo Carandini and Kenneth Harris at UCL ([Cortex Lab][cortexlab]). Previously, I was a neuroscience graduate student in the lab of Jack Gallant at UC Berkeley.
 
 <a markdown="0" href="{{ site.url }}/research" class="btn">research</a>
+
+## Current Position
+
+	Postdoctoral Fellow
+	Cortex Lab
+	University College London
 
 
 ## Graduate studies
 
-	Ph.D. Neuroscience, 2018
+	Ph.D. Neuroscience
 	Gallant Lab
 	Helen Wills Neuroscience Institute
-	University of California, Berkeley
-
-## Undergraduate studies
-
-	B.A. Cognitive Science
-	B.A. Economics
 	University of California, Berkeley
 
 
 ## Personal
 
 	Anwar O. Nunez-Elizalde
-	Email: anwarnunez@berkeley.edu
+	Email: a.nunez-elizalde@ucl.ac.uk
 
-[glab]: http://gallantlab.org
-[hwni]: http://neuroscience.berkeley.edu
+[cortexlab]: https://www.ucl.ac.uk/cortexlab/
