@@ -33,6 +33,6 @@ I'm a postdoc in the lab of Matteo Carandini and Kenneth Harris at UCL ([Cortex 
 ## Personal
 
 	Anwar O. Nunez-Elizalde
-	Email: a.nunez-elizalde@ucl.ac.uk
+	Email: anwar.nunez@ucl.ac.uk
 
 [cortexlab]: https://www.ucl.ac.uk/cortexlab/
