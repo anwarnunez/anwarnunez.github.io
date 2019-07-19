@@ -10,6 +10,8 @@ search_omit: false
 
 # Publications
 
+**The representation of semantic information across human cerebral cortex during listening versus reading is invariant to stimulus modality**. Deniz F, Nunez-Elizalde AO, Huth AG, and Gallant JL. Journal of Neuroscience (_In Press_).
+
 [**Voxelwise encoding models with non-spherical multivariate normal priors.**](https://doi.org/10.1016/j.neuroimage.2019.04.012) Nunez-Elizalde AO, Huth AG, and Gallant JL. NeuroImage (2019). ([PDF](http://anwarnunez.github.io/downloads/Nunez-Elizalde2019.pdf), [code](http://github.com/gallantlab/tikreg)).
 
 [**cottoncandy: scientific python package for easy cloud storage.**](https://joss.theoj.org/papers/5af3df2912fd34f2cf3bb7fa1db90df5) Nunez-Elizalde AO, Gao JS, Zhang T, and Gallant JL. The Journal of Open Source Software (2018).
