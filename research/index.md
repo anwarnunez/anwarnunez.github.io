@@ -9,7 +9,7 @@ share: true
 
 ***
 
-These are some of my current projects.
+These are some of my ~~current~~ old PhD projects.
 
 
 ## Movies with sound
