@@ -10,11 +10,13 @@ search_omit: false
 
 # Publications
 
-[**Neural basis of functional ultrasound signals**](https://www.biorxiv.org/content/10.1101/2021.03.31.437915v1). Nunez-Elizalde AO, Krumin M, Reddy CB, Montaldo G, Urban A, Harris KD, and Carandini M. bioRxiv (2021).
+[**Neural correlates of blood flow measured by ultrasound**](https://doi.org/10.1016/j.neuron.2022.02.012). Nunez-Elizalde AO, Krumin M, Reddy CB, Montaldo G, Urban A, Harris KD, and Carandini M. Neuron (2022). [[data](https://figshare.com/projects/Nunez-Elizalde2022/132110), [code](https://github.com/anwarnunez/fusi)].
+
+[**Visual and linguistic semantic representations are aligned at the border of human visual cortex**]( https://doi.org/10.1038/s41593-021-00921-6). Popham SF, Huth AG, Bilenko NY, Deniz F, Gao JS, Nunez-Elizalde AO, and Gallant JL. Nature Neuroscience (2021).
 
 [**The representation of semantic information across human cerebral cortex during listening versus reading is invariant to stimulus modality**](https://www.jneurosci.org/content/39/39/7722). Deniz F, Nunez-Elizalde AO, Huth AG, and Gallant JL. Journal of Neuroscience (2019).
 
-[**Voxelwise encoding models with non-spherical multivariate normal priors.**](https://doi.org/10.1016/j.neuroimage.2019.04.012) Nunez-Elizalde AO, Huth AG, and Gallant JL. NeuroImage (2019). ([PDF](http://anwarnunez.github.io/downloads/Nunez-Elizalde2019.pdf), [code](http://github.com/gallantlab/tikreg), [data](https://berkeley.box.com/s/adk97fj1zv7l83358cftdh0eux8ya6tx)).
+[**Voxelwise encoding models with non-spherical multivariate normal priors.**](https://doi.org/10.1016/j.neuroimage.2019.04.012) Nunez-Elizalde AO, Huth AG, and Gallant JL. NeuroImage (2019). [[PDF](http://anwarnunez.github.io/downloads/Nunez-Elizalde2019.pdf), [code](http://github.com/gallantlab/tikreg), [data](https://berkeley.box.com/s/adk97fj1zv7l83358cftdh0eux8ya6tx)]
 
 [**cottoncandy: scientific python package for easy cloud storage.**](https://joss.theoj.org/papers/5af3df2912fd34f2cf3bb7fa1db90df5) Nunez-Elizalde AO, Gao JS, Zhang T, and Gallant JL. The Journal of Open Source Software (2018).
 
