@@ -11,21 +11,14 @@ image:
 
 ***
 
-I'm a postdoc in the lab of Matteo Carandini and Kenneth Harris at UCL ([Cortex Lab][cortexlab]). Previously, I was a neuroscience graduate student in the lab of Jack Gallant at UC Berkeley.
+I'm a research scientist based in the San Francisco Bay area. Previously, I was a postdoc in the lab of Matteo Carandini and Kenneth Harris at UCL ([Cortex Lab][cortexlab]) and before that I was a graduate student in the lab of Jack Gallant at UC Berkeley ([Gallant Lab][gallantlab]).
 
 <a markdown="0" href="{{ site.url }}/research" class="btn">research</a>
-
-## Current Position
-
-	Postdoctoral Fellow
-	Cortex Lab
-	University College London
 
 
 ## Graduate studies
 
 	Ph.D. Neuroscience
-	Gallant Lab
 	Helen Wills Neuroscience Institute
 	University of California, Berkeley
 
@@ -33,6 +26,8 @@ I'm a postdoc in the lab of Matteo Carandini and Kenneth Harris at UCL ([Cortex 
 ## Personal
 
 	Anwar O. Nunez-Elizalde
-	Email: anwar.nunez@ucl.ac.uk
+	Email: anwarnunez@gmail.com
 
 [cortexlab]: https://www.ucl.ac.uk/cortexlab/
+
+[gallantlab]: https://gallantlab.org
