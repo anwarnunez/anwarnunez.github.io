@@ -2,7 +2,7 @@
 
 title: Anwar Nunez-Elizalde
 locale: en_US
-description: postdoc - cortexlab @ UCL
+description: 
 logo: brain_side_2.png
 search: true
 url: http://anwarnunez.github.io
@@ -48,7 +48,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Anwar O. Nunez-Elizalde
+  name: Anwar Nunez-Elizalde
   avatar: #bio-photo.jpg
   email: anwarnunez@gmail.com
   disqus-shortname:
