@@ -25,7 +25,7 @@ I'm a research scientist based in the San Francisco Bay area. Previously, I was 
 
 ## Personal
 
-	Anwar O. Nunez-Elizalde
+	Anwar Nunez-Elizalde
 	Email: anwarnunez@gmail.com
 
 [cortexlab]: https://www.ucl.ac.uk/cortexlab/
