@@ -10,6 +10,8 @@ search_omit: false
 
 # Publications
 
+[**Feature-space selection with banded ridge regression**](https://doi.org/10.1101/2022.05.05.490831). Dupré la Tour T, Eickenberg M, Nunez-Elizalde AO, Gallant JL. bioRxiv (2022).
+
 [**Neural correlates of blood flow measured by ultrasound**](https://doi.org/10.1016/j.neuron.2022.02.012). Nunez-Elizalde AO, Krumin M, Reddy CB, Montaldo G, Urban A, Harris KD, and Carandini M. Neuron (2022). [[data](https://figshare.com/projects/Nunez-Elizalde2022/132110), [code](https://github.com/anwarnunez/fusi)].
 
 [**Visual and linguistic semantic representations are aligned at the border of human visual cortex**]( https://doi.org/10.1038/s41593-021-00921-6). Popham SF, Huth AG, Bilenko NY, Deniz F, Gao JS, Nunez-Elizalde AO, and Gallant JL. Nature Neuroscience (2021).
