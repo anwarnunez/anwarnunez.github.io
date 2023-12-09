@@ -10,9 +10,11 @@ search_omit: false
 
 # Publications
 
-[**Feature-space selection with banded ridge regression**](https://doi.org/10.1016/j.neuroimage.2022.119728). Dupré la Tour T, Eickenberg M, Nunez-Elizalde AO, Gallant JL. NeuroImage (2022).
+[**Feature-space selection with banded ridge regression**](https://doi.org/10.1016/j.neuroimage.2022.119728). Dupré la Tour T, Eickenberg M, Nunez-Elizalde AO, and Gallant JL. NeuroImage (2022).
 
 [**Neural correlates of blood flow measured by ultrasound**](https://doi.org/10.1016/j.neuron.2022.02.012). Nunez-Elizalde AO, Krumin M, Reddy CB, Montaldo G, Urban A, Harris KD, and Carandini M. Neuron (2022). [[data](https://figshare.com/projects/Nunez-Elizalde2022/132110), [code](https://github.com/anwarnunez/fusi)].
+
+[**pymoten: scientific python package for computing motion energy features from video.**](http://github.com/gallantlab/pymoten) Nunez-Elizalde AO, Deniz F, Dupré la Tour T, Visconti di Oleggio Castello M, and Gallant JL. Zenodo (2022). [[DOI](https://doi.org/10.5281/zenodo.6349625), [GitHub](http://github.com/gallantlab/pymoten)].
 
 [**Visual and linguistic semantic representations are aligned at the border of human visual cortex**]( https://doi.org/10.1038/s41593-021-00921-6). Popham SF, Huth AG, Bilenko NY, Deniz F, Gao JS, Nunez-Elizalde AO, and Gallant JL. Nature Neuroscience (2021).
 
@@ -20,7 +22,7 @@ search_omit: false
 
 [**Voxelwise encoding models with non-spherical multivariate normal priors.**](https://doi.org/10.1016/j.neuroimage.2019.04.012) Nunez-Elizalde AO, Huth AG, and Gallant JL. NeuroImage (2019). [[PDF](http://anwarnunez.github.io/downloads/Nunez-Elizalde2019.pdf), [data](https://berkeley.box.com/s/adk97fj1zv7l83358cftdh0eux8ya6tx), [code](http://github.com/gallantlab/tikreg)].
 
-[**cottoncandy: scientific python package for easy cloud storage.**](https://joss.theoj.org/papers/5af3df2912fd34f2cf3bb7fa1db90df5) Nunez-Elizalde AO, Gao JS, Zhang T, and Gallant JL. The Journal of Open Source Software (2018).
+[**cottoncandy: scientific python package for easy cloud storage.**](http://github.com/gallantlab/cottoncandy) Nunez-Elizalde AO, Gao JS, Zhang T, and Gallant JL. The Journal of Open Source Software (2018). [[DOI](https://doi.org/10.21105/joss.00890), [GitHub](http://github.com/gallantlab/cottoncandy)].
 
 [**Seeing the world through non rose-colored glasses: anxiety and the amygdala response to blended expressions.**](http://journal.frontiersin.org/article/10.3389/fnhum.2015.00152/full) Bishop SJ, Aguirre GK, Nunez-Elizalde AO, and Toker D. Frontiers in Human Neuroscience (2015).
 
