@@ -14,7 +14,7 @@ search_omit: false
 
 [**Neural correlates of blood flow measured by ultrasound**](https://doi.org/10.1016/j.neuron.2022.02.012). Nunez-Elizalde AO, Krumin M, Reddy CB, Montaldo G, Urban A, Harris KD, and Carandini M. Neuron (2022). [[data](https://figshare.com/projects/Nunez-Elizalde2022/132110), [code](https://github.com/anwarnunez/fusi)].
 
-[**pymoten: scientific python package for computing motion energy features from video.**](http://github.com/gallantlab/pymoten) Nunez-Elizalde AO, Deniz F, Dupré la Tour T, Visconti di Oleggio Castello M, and Gallant JL. Zenodo (2022). [[DOI](https://doi.org/10.5281/zenodo.6349625), [GitHub](http://github.com/gallantlab/pymoten)].
+[**pymoten: scientific python package for computing motion energy features from video.**](http://github.com/gallantlab/pymoten) Nunez-Elizalde AO, Deniz F, Dupré la Tour T, Visconti di Oleggio Castello M, and Gallant JL. Zenodo (2021). [[DOI](https://doi.org/10.5281/zenodo.6349625), [GitHub](http://github.com/gallantlab/pymoten)].
 
 [**Visual and linguistic semantic representations are aligned at the border of human visual cortex**]( https://doi.org/10.1038/s41593-021-00921-6). Popham SF, Huth AG, Bilenko NY, Deniz F, Gao JS, Nunez-Elizalde AO, and Gallant JL. Nature Neuroscience (2021).
 
