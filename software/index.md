@@ -19,7 +19,7 @@ _Python package for storing arrays on the cloud_
 
 [https://github.com/gallantlab/cottoncandy](https://github.com/gallantlab/cottoncandy)
 
-`cottoncandy` is a a Python package for storing and accessing numpy array data on S3. This is achieved by reading arrays from memory and downloading arrays directly into memory. This means that you don't have to download your array to disk, and then load it from disk into your python session.
+`cottoncandy` is a Python package for storing and accessing numpy array data on S3. This is achieved by reading arrays from memory and downloading arrays directly into memory. This means that you don't have to download your array to disk, and then load it from disk into your python session.
 
 ### pymoten
 
@@ -48,6 +48,7 @@ See latest implementation in: [https://github.com/gallantlab/himalaya](https://g
 ### fusilib
 
 _Signal processing package for functional ultrasound and electrophysiology data_
+
 [https://github.com/anwarnunez/fusi](https://github.com/anwarnunez/fusi)
 
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-fusilib-blue)] -->
