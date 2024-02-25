@@ -12,8 +12,8 @@
 - title: publications
   url: /publications/
 
-- title: random
-  url: /random/
+# - title: random
+#   url: /random/
 
 - title: software
   url: /software/
