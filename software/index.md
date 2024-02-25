@@ -23,7 +23,7 @@ _Python package for storing arrays on the cloud_
 
 ### pymoten
 
-_Computer vision package for extracting motion energy features from videos._
+_Computer vision package for extracting motion energy features from videos_
 
 [![GitHub](https://img.shields.io/badge/GitHub-pymoten-blue)](https://github.com/gallantlab/pymoten)
 [![Downloads](https://pepy.tech/badge/pymoten)](https://pepy.tech/project/pymoten)
@@ -35,7 +35,7 @@ _Computer vision package for extracting motion energy features from videos._
 
 ### tikreg
 
-_Machine learning package for Tikhonov, ridge, and banded ridge regression._
+_Machine learning package for Tikhonov, ridge, and banded ridge regression_
 
 [![GitHub](https://img.shields.io/badge/GitHub-tikreg-blue)](https://github.com/gallantlab/tikreg)
 [![Downloads](https://pepy.tech/badge/tikreg)](https://pepy.tech/project/tikreg)
