@@ -2,15 +2,15 @@
 
 title: Anwar Nunez-Elizalde
 locale: en_US
-description: 
+description:
 logo: brain_side_2.png
 search: true
 url: http://anwarnunez.github.io
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
-markdown:    kramdown
+permalink: /:categories/:title/
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
@@ -29,8 +29,30 @@ kramdown:
 mathjax: true
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
+exclude:
+  [
+    "lib",
+    "config.rb",
+    "Capfile",
+    "config",
+    "log",
+    "Rakefile",
+    "Rakefile.rb",
+    "tmp",
+    "less",
+    "*.sublime-project",
+    "*.sublime-workspace",
+    "test",
+    "spec",
+    "Gruntfile.js",
+    "package.json",
+    "node_modules",
+    "Gemfile",
+    "Gemfile.lock",
+    "LICENSE",
+    "README.md",
+    "vendor",
+  ]
 
 # Octopress
 
@@ -45,14 +67,13 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
-
 # Site owner
 owner:
   name: Anwar Nunez-Elizalde
   avatar: #bio-photo.jpg
   email: anwarnunez@gmail.com
   disqus-shortname:
-  twitter: anwarnunez
+  twitter: #anwarnunez
   facebook: #username
   github: anwarnunez
   stackexchange: #http://stackoverflow.com/users/123456/username
