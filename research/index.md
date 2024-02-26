@@ -16,13 +16,13 @@ These are some of my ~~current~~ old PhD projects.
 
 ### High-level cognition
 
-<figure class="quarter">
+<figure class="third">
 	<a href="/images/reference_lofc.png"><img src="/images/reference_lofc.png" alt="image"></a>
 	<a href="/images/lofc3.png"><img src="/images/lofc3.png" alt="image"></a>
 	<a href="/images/lofc1.png"><img src="/images/lofc1.png" alt="image"></a>
 </figure>
 
-<figure class="quarter">
+<figure class="third">
 	<a href="/images/reference_lpfc.png"><img src="/images/reference_lpfc.png" alt="image"></a>
 	<a href="/images/lpfc1.png"><img src="/images/lpfc1.png" alt="image"></a>
 	<a href="/images/lpfc3.png"><img src="/images/lpfc3.png" alt="image"></a>
@@ -30,7 +30,7 @@ These are some of my ~~current~~ old PhD projects.
 
 ### Hemodynamic response function estimation
 
-<figure class="quarter">
+<figure class="third">
 	<a href="/images/HTH.png"><img src="/images/HTH.png" alt="image"></a>
 	<a href="/images/stim_fir_notitle.png"><img src="/images/stim_fir_notitle.png" alt="image"></a>
 	<a href="/images/stim_volterra_notitle.png"><img src="/images/stim_volterra_notitle.png" alt="image"></a>
