@@ -29,7 +29,7 @@ _Computer vision package for extracting motion energy features from videos_
 [![Downloads](https://pepy.tech/badge/pymoten)](https://pepy.tech/project/pymoten)
 [![coverage](https://codecov.io/gh/gallantlab/pymoten/branch/main/graph/badge.svg)](https://codecov.io/gh/gallantlab/pymoten)
 
-[https://github.com/gallantlab/cottoncandy](https://github.com/gallantlab/cottoncandy)
+[https://github.com/gallantlab/pymoten](https://github.com/gallantlab/pymoten)
 
 `pymoten` is a Python package that provides a convenient way to extract motion energy features from video using a pyramid of spatio-temporal Gabor filters. The filters are created at multiple spatial and temporal frequencies, directions of motion, screen positions, and sizes. Each filter quadrature-pair is convolved with the video and their activation energy is computed for each frame. These features provide a good basis to model brain responses to natural movies.
 
