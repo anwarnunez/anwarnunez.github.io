@@ -53,4 +53,4 @@ _Signal processing package for functional ultrasound and electrophysiology data_
 
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-fusilib-blue)] -->
 
-Implements temporal, frequncy and spatial domain analyses related to [Nunez-Elizalde, et al., 2022](https://doi.org/10.1016/j.neuron.2022.02.012).
+Implements temporal, frequency and spatial domain analyses related to [Nunez-Elizalde, et al., 2022](https://doi.org/10.1016/j.neuron.2022.02.012).
